@@ -1,0 +1,18 @@
+{
+  "_id": "5ffcda6e1301a0cbec0601a4",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_byron-workflow-create-test-017",
+  "id": 1,
+  "name": "start",
+  "type": "start",
+  "actions": [],
+  "reactions": [],
+  "triggers": [
+    {
+      "source": [],
+      "_id": "5ffcda6e1301a026920601a5",
+      "id": "1",
+      "type": "user"
+    }
+  ],
+  "__v": 0
+}

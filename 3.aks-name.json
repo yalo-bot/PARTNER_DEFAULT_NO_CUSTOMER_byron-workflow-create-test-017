@@ -1,0 +1,11 @@
+{
+  "_id": "5ffcda831301a0c1f10601a7",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_byron-workflow-create-test-017",
+  "id": 3,
+  "type": "step",
+  "actions": null,
+  "reactions": null,
+  "triggers": null,
+  "__v": 0,
+  "name": "aks-name"
+}
